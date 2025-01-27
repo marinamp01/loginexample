@@ -1,0 +1,36 @@
+<?php
+$cliente = [
+    ["id" => 1, "nombre" => "Carlos", "apellidos" => "Gómez Pérez", "telefono" => "5551234567", "email" => "carlos.gomez@example.com"],
+    ["id" => 2, "nombre" => "Ana", "apellidos" => "Martínez López", "telefono" => "5552345678", "email" => "ana.martinez@example.com"],
+    ["id" => 3, "nombre" => "Luis", "apellidos" => "Hernández Ruiz", "telefono" => "5553456789", "email" => "luis.hernandez@example.com"],
+    ["id" => 4, "nombre" => "María", "apellidos" => "García Fernández", "telefono" => "5554567890", "email" => "maria.garcia@example.com"],
+    ["id" => 5, "nombre" => "Jorge", "apellidos" => "Ramírez Torres", "telefono" => "5555678901", "email" => "jorge.ramirez@example.com"],
+    ["id" => 6, "nombre" => "Elena", "apellidos" => "Ortega Díaz", "telefono" => "5556789012", "email" => "elena.ortega@example.com"],
+    ["id" => 7, "nombre" => "Roberto", "apellidos" => "Navarro Gómez", "telefono" => "5557890123", "email" => "roberto.navarro@example.com"],
+    ["id" => 8, "nombre" => "Laura", "apellidos" => "Sánchez Morales", "telefono" => "5558901234", "email" => "laura.sanchez@example.com"],
+    ["id" => 9, "nombre" => "Diego", "apellidos" => "Vargas Cruz", "telefono" => "5559012345", "email" => "diego.vargas@example.com"],
+    ["id" => 10, "nombre" => "Sofía", "apellidos" => "López Herrera", "telefono" => "5550123456", "email" => "sofia.lopez@example.com"],
+    ["id" => 11, "nombre" => "Fernando", "apellidos" => "Pérez Soto", "telefono" => "5551234568", "email" => "fernando.perez@example.com"],
+    ["id" => 12, "nombre" => "Marta", "apellidos" => "Castro Jiménez", "telefono" => "5552345679", "email" => "marta.castro@example.com"],
+    ["id" => 13, "nombre" => "Alberto", "apellidos" => "Silva Carrillo", "telefono" => "5553456780", "email" => "alberto.silva@example.com"],
+    ["id" => 14, "nombre" => "Patricia", "apellidos" => "Mendoza Aguilar", "telefono" => "5554567891", "email" => "patricia.mendoza@example.com"],
+    ["id" => 15, "nombre" => "Ricardo", "apellidos" => "Delgado Campos", "telefono" => "5555678902", "email" => "ricardo.delgado@example.com"],
+    ["id" => 16, "nombre" => "Andrea", "apellidos" => "Ramos Martínez", "telefono" => "5556789013", "email" => "andrea.ramos@example.com"],
+    ["id" => 17, "nombre" => "César", "apellidos" => "Cervantes Vega", "telefono" => "5557890124", "email" => "cesar.cervantes@example.com"],
+    ["id" => 18, "nombre" => "Claudia", "apellidos" => "Esquivel Flores", "telefono" => "5558901235", "email" => "claudia.esquivel@example.com"],
+    ["id" => 19, "nombre" => "Manuel", "apellidos" => "Luna Guzmán", "telefono" => "5559012346", "email" => "manuel.luna@example.com"],
+    ["id" => 20, "nombre" => "Isabel", "apellidos" => "Campos Rojas", "telefono" => "5550123457", "email" => "isabel.campos@example.com"],
+    ["id" => 21, "nombre" => "Héctor", "apellidos" => "Jiménez Rocha", "telefono" => "5551234569", "email" => "hector.jimenez@example.com"],
+    ["id" => 22, "nombre" => "Paola", "apellidos" => "Fuentes Rivera", "telefono" => "5552345680", "email" => "paola.fuentes@example.com"],
+    ["id" => 23, "nombre" => "Gustavo", "apellidos" => "Alvarado Meza", "telefono" => "5553456781", "email" => "gustavo.alvarado@example.com"],
+    ["id" => 24, "nombre" => "Rosa", "apellidos" => "Soto Peña", "telefono" => "5554567892", "email" => "rosa.soto@example.com"],
+    ["id" => 25, "nombre" => "Álvaro", "apellidos" => "Galindo Villanueva", "telefono" => "5555678903", "email" => "alvaro.galindo@example.com"],
+    ["id" => 26, "nombre" => "Natalia", "apellidos" => "Ibáñez Pacheco", "telefono" => "5556789014", "email" => "natalia.ibanez@example.com"],
+    ["id" => 27, "nombre" => "Javier", "apellidos" => "Morales Serrano", "telefono" => "5557890125", "email" => "javier.morales@example.com"],
+    ["id" => 28, "nombre" => "Verónica", "apellidos" => "Lara Tapia", "telefono" => "5558901236", "email" => "veronica.lara@example.com"],
+    ["id" => 29, "nombre" => "Pablo", "apellidos" => "Núñez Reyes", "telefono" => "5559012347", "email" => "pablo.nunez@example.com"],
+    ["id" => 30, "nombre" => "Silvia", "apellidos" => "Vega Ortega", "telefono" => "5550123458", "email" => "silvia.vega@example.com"],
+];
+
+print_r($cliente);
+?>
